@@ -119,7 +119,7 @@ streamlit run app.py
 
 Explore the interactive Sales Forecasting Dashboard here:
 
-**https://salesforecastingdemandintelligencesystem-k6kqiwzppatrgg2r2sjx4.streamlit.app/**
+** https://salesforecastingdemandintelligencesystem-k6kqiwzppatrgg2r2sjx4.streamlit.app/ **
 
 ---
 
@@ -127,7 +127,7 @@ Explore the interactive Sales Forecasting Dashboard here:
 
 View the complete project notebook with data analysis, forecasting models, anomaly detection, and clustering:
 
-**https://colab.research.google.com/drive/1NyFuTkE9QqxEa8RLUjlZQis4l1Y2YBcN?usp=sharing**
+** https://colab.research.google.com/drive/1NyFuTkE9QqxEa8RLUjlZQis4l1Y2YBcN?usp=sharing **
 
 ## Author
 
